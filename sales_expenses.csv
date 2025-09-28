@@ -1,0 +1,16 @@
+Date,Type,Category,Amount
+2025-07-01,Sale,Product A,1500.0
+2025-07-01,Expense,Marketing,400.0
+2025-07-02,Sale,Product B,1800.0
+2025-07-02,Expense,Office,300.0
+2025-07-03,Expense,Travel,500.0
+2025-07-03,Sale,Product A,1200.0
+2025-07-10,Expense,Product A,0.0
+2025-07-10,Expense,Product A,10000.0
+2025-07-10,Expense,Product A,10000.0
+2025-07-10,Expense,Product A,5000.0
+2025-07-10,Sale,Travel,0.0
+2025-07-10,Sale,Travel,90.0
+2025-07-10,Sale,Travel,90.0
+2025-08-06,Sale,Product A,5000.0
+2025-08-06,Sale,Travel,10000.0
